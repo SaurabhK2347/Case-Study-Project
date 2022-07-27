@@ -1,0 +1,45 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+
+img 
+{
+    height: 200;
+    width: 200;
+}
+
+#div_bottle 
+{
+	border-radius: 20px;
+	background-color: gray;
+}
+
+#div_computer 
+{
+	border-radius: 20px;
+	background-color: gray;
+}
+
+#div_fan 
+{
+	border-radius: 20px;
+	background-color: gray;
+}
+
+#div_phone 
+{
+	border-radius: 20px;
+	background-color: gray;
+}
+
+#div_speed_cube 
+{
+	border-radius: 20px;
+	background-color: gray;
+}
